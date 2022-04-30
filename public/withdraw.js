@@ -7,7 +7,7 @@ function Withdraw(props) {
       <Card
         bgcolor="warning"
         txtcolor="black"
-        header="WITHDRAW"
+        header="Withdraw"
         status={status}
         body={
           show ? (
