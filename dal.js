@@ -11,7 +11,7 @@ MongoClient.connect(url, { useUnifiedTopology: true }, function (err, client) {
   // connect to myproject database
 
   
-  db = client.db("badbank");
+  db = client.db("?");
 });
 
 // create user account using the collection.insertOne function
