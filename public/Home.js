@@ -5,7 +5,7 @@ function Home() {
         txtcolor="black"
         header="Bad Bank"
         title="Welcome to savings!"
-        text="For all your banking needs!"
+        text="Here to help with savings!"
         body={<img src="bank.png" className="img-fluid" alt="Responsive image" />}
       />
     );
